@@ -54,12 +54,13 @@ body {
 }
 
 .carousel-item {
-    height: 60%;
+    height: 900px;
 }
 
 .carousel-item img {
-    min-height: 60%;
-    max-width: 80%;
+    /* height: 80vh; */
+    min-height: 100%;
+    /* max-width: 80%; */
     margin: auto
 }
 
